@@ -3029,3 +3029,243 @@ Open repository: /home/lucassoares/Documentos/SemanaOmniStack11
 > git remote --verbose
 > git config --get commit.template
 > git check-ignore -v -z --stdin
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/src/pages/Incidents/index.js
+> git cat-file -s 17cb81ee846f170b9065c3c985eaada4d4710733
+> git show :mobile/src/pages/Incidents/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git push origin master:master
+To https://github.com/lcsoares10/be-the-hero.git
+   fda4617..33cda98  master -> master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/src/pages/Incidents/index.js
+> git cat-file -s 17cb81ee846f170b9065c3c985eaada4d4710733
+> git show :mobile/src/pages/Incidents/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/src/pages/Incidents/index.js
+> git cat-file -s 17cb81ee846f170b9065c3c985eaada4d4710733
+> git show :mobile/src/pages/Incidents/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show HEAD:mobile/~/.vscode-root/User/settings.json
+> git ls-tree -l HEAD -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/~/.vscode-root/User/settings.json
+> git show HEAD:mobile/~/.vscode-root/Cache/index-dir/the-real-index
+> git ls-tree -l HEAD -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/~/.vscode-root/Cache/index-dir/the-real-index
+> git ls-tree -l HEAD -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/~/.vscode-root/Cache/index-dir/the-real-index
+> git ls-tree -l HEAD -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/~/.vscode-root/Cache/index-dir/the-real-index
+> git check-ignore -v -z --stdin
+> git show HEAD:mobile/~/.vscode-root/User/globalStorage/state.vscdb
+> git ls-tree -l HEAD -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/~/.vscode-root/User/globalStorage/state.vscdb
+> git ls-tree -l HEAD -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/~/.vscode-root/User/globalStorage/state.vscdb
+> git ls-tree -l HEAD -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/~/.vscode-root/User/globalStorage/state.vscdb
+> git check-ignore -v -z --stdin
+> git show HEAD:mobile/~/.vscode-root/logs/20200328T154022/exthost1/output_logging_20200328T154122/1-GitHub Authentication.log
+> git ls-tree -l HEAD -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/~/.vscode-root/logs/20200328T154022/exthost1/output_logging_20200328T154122/1-GitHub Authentication.log
+> git check-ignore -v -z --stdin
+> git show HEAD:mobile/~/.vscode-root/logs/20200328T154022/exthost1/output_logging_20200328T154122/3-Git.log
+> git ls-tree -l HEAD -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/~/.vscode-root/logs/20200328T154022/exthost1/output_logging_20200328T154122/3-Git.log
+> git ls-tree -l HEAD -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/~/.vscode-root/logs/20200328T154022/exthost1/output_logging_20200328T154122/3-Git.log
+> git show :mobile/package.json
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/package.json
+> git cat-file -s 216d31859d3f90906cb4d12a8891d7934826d709
+> git show :mobile/package-lock.json
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/package-lock.json
+> git cat-file -s 8be61e50a8972ead03e2a2f31009296c0896d867
+> git show :mobile/src/pages/Incidents/index.js
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/src/pages/Incidents/index.js
+> git cat-file -s 17cb81ee846f170b9065c3c985eaada4d4710733
+> git fetch
+> git show :mobile/package-lock.json
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/package-lock.json
+> git cat-file -s 8be61e50a8972ead03e2a2f31009296c0896d867
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/package-lock.json
+> git cat-file -s 8be61e50a8972ead03e2a2f31009296c0896d867
+> git show :mobile/package-lock.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :mobile/package.json
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/package.json
+> git cat-file -s 216d31859d3f90906cb4d12a8891d7934826d709
+> git fetch
+From https://github.com/lcsoares10/be-the-hero
+   33cda98..eb1ed69  master     -> origin/master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/package.json
+> git cat-file -s 216d31859d3f90906cb4d12a8891d7934826d709
+> git show :mobile/package.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :mobile/package-lock.json
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/package-lock.json
+> git cat-file -s 8be61e50a8972ead03e2a2f31009296c0896d867
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/package-lock.json
+> git cat-file -s 8be61e50a8972ead03e2a2f31009296c0896d867
+> git show :mobile/package-lock.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :mobile/src/pages/Incidents/index.js
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/src/pages/Incidents/index.js
+> git cat-file -s 17cb81ee846f170b9065c3c985eaada4d4710733
+> git show :mobile/package-lock.json
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/package-lock.json
+> git cat-file -s 8be61e50a8972ead03e2a2f31009296c0896d867
+> git show :mobile/package.json
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/package.json
+> git cat-file -s 216d31859d3f90906cb4d12a8891d7934826d709
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :mobile/package-lock.json
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/package-lock.json
+> git cat-file -s 8be61e50a8972ead03e2a2f31009296c0896d867
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/lucassoares/Documentos/SemanaOmniStack11/mobile/package-lock.json
+> git cat-file -s 8be61e50a8972ead03e2a2f31009296c0896d867
+> git show :mobile/package-lock.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .

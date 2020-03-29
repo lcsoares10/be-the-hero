@@ -1,4 +1,5 @@
 {
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Noctis Uva"
+    "workbench.colorTheme": "Noctis Uva",
+    "git.autofetch": true
 }
